@@ -1,6 +1,6 @@
 # UDP-Protocols
-This project series belongs to grad class - Netwrok Design and Protocols. 
-It consists of 5 Projects - all done in Python. 
+This project series belongs to grad class - Network Design and Protocols. 
+It consists of 5 Projects - all coded in Python. 
 I created seperate soruce files for client and server.
 I have used relative path for the image file but can be replaced with the full path as well.
 1. Phase 1 is simple implementation of UPD and it transfer 1 image file from server to client. 
